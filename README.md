@@ -40,27 +40,14 @@ Este projeto foi construído com as seguintes ferramentas:
 <h3>⚙️ Instalação</h3>
 
 Clone o repositório:
-
-git clone https://github.com/lou-godoi/RH-flow.git
+<br> git clone https://github.com/lou-godoi/RH-flow.git
 <br>cd RH-flow
-
-<br>
-<br>
+<br><br>
 Instale as dependências:
-
-npm install
-
-Configure as variáveis de ambiente:
-
-DB_HOST= localhost
-DB_PORT= 3306
-DB_USER= seu usuário
-DB_PASSWORD= sua_senha
-DB_NAME= db_rhflow
-
+<br>npm install
+<br><br>
 Execute o projeto:
-
-npm run start:dev
+<br>npm run start:dev
 
 -----------------------------------------------------------------------------
 
