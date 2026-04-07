@@ -56,11 +56,10 @@ DB_NAME= db_rhflow
 Execute o projeto:
 
 npm run start:dev
-🔮 Próximas funcionalidades
 
 -----------------------------------------------------------------------------
 
-IMPLEMENTAÇÕES FUTURAS:
+🔮 IMPLEMENTAÇÕES FUTURAS:
 
 🔍 Novos filtros de pesquisa
 Permitir buscas mais rápidas pelo nome do funcionário, facilitando o acesso aos dados.
