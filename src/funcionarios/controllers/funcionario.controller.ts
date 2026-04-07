@@ -22,4 +22,10 @@ export class FuncionarioController {
         return this.funcionarioService.findById(id);
     }
 
+    @Get('/departamento/:departamento')
+    @HttpCode(HttpStatus.OK)
+    findByAllDepartamento(@Param('departamento')departamento: string): Promise<Funcionario[]>{
+        return this.funcionarioService.findAllByDepartamento(departamento);
+        
+    }
 }
